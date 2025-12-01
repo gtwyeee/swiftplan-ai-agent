@@ -3,7 +3,6 @@
 
 **Track:** Concierge Agents
 **Author:** Ratheshan Sathiyamoorthy
----
 
 ### 📖 Project Overview
 SwiftPlan is a Multi-Agent System designed to eliminate the stress of travel planning. It automates the research and scheduling process, creating personalized, budget-conscious itineraries in seconds.
